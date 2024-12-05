@@ -1,0 +1,6 @@
+[submodule "tests/lib/cunit"]
+	path = tests/lib/cunit
+	url = https://gitlab.com/cunity/cunit.git
+[submodule "lib/SDL"]
+	path = lib/SDL
+	url = https://github.com/libsdl-org/SDL.git
